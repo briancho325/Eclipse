@@ -19,3 +19,8 @@ public static void main (String[] atgs) {
 		System.out.print(intArray[i]+ " "); //배열 모든 원소 출력
 	}
 }
+
+/*
+for(int i=o;, i<temp,length, i++)
+	temp[i] = new int[i+3];
+*/
