@@ -1,4 +1,4 @@
-package winter_22;
+package week2;
 
 import java.util.Scanner; //이게 필수네
 

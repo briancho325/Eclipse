@@ -1,4 +1,4 @@
-package winter_22;
+package week3;
 //Week를 Switch로 한글(문자)로도 할수있
 public class foreachSwitch {
 	enum Week {월, 화, 수, 목, 금, 토, 일}

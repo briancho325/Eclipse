@@ -1,4 +1,4 @@
-package winter_22;
+package week2;
 
 public class CircleArea {
 	
@@ -8,7 +8,7 @@ public class CircleArea {
 		double radius = 10.0;
 		double circleArea = radius*radius*PI
 ;
-		System.out.println("원의 면적 = " + circleArea);
+		System.out.println("원의 면적은 " + circleArea + "입니다.");
 	}
 
 }

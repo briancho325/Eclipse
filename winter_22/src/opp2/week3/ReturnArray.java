@@ -1,4 +1,4 @@
-package winter_22;
+package week3;
 
 public class ReturnArray {
 

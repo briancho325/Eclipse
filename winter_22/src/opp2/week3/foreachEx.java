@@ -1,4 +1,4 @@
-package winter_22;
+package week3;
 //for-each 는 String이 아님
 public class foreachEx {
 	enum Week {월, 화, 수, 목, 금, 토, 일}

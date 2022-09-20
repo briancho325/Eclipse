@@ -1,3 +1,4 @@
+package week3;
 /* package winter_22;
 
 public class IrregularArrayEx {
