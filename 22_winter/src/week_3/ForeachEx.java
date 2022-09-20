@@ -1,6 +1,6 @@
 package week_3;
 //for-each 는 String이 아님
-public class foreachEx {
+public class ForeachEx {
 	enum Week {월, 화, 수, 목, 금, 토, 일}
 
 	public static void main(String[] args) {
@@ -29,4 +29,4 @@ public class foreachEx {
 }
 
 //case로 하려면 for () { switch(day) {
-// 						case 월: --> break 케이스에 상수 가능?
+//						case 월: --> break 케이스에 상수 가능?
