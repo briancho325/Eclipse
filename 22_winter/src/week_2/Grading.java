@@ -1,6 +1,6 @@
 package week_2;
 
-import java.util.Scanner; //이게 필수네
+import java.util.Scanner; //이게 필수
 
 public class Grading {
 
