@@ -1209,6 +1209,7 @@ public class Hangman extends JFrame implements ActionListener {
 
  }
 
+
  public void actionPerformed(ActionEvent var1) {
      String var2 = var1.getActionCommand();
      if (var2.equals("BEGIN")) {
